@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kibruyisfa95
+- 👋 Hi, I’m Kibruyisfa -> @kibruyisfa95
 - 👀 I’m interested in Fullstack Dev and Graphic Design
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on JavaScript and Python projects
